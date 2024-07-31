@@ -6,6 +6,10 @@
 
 SERPENT is a GUI-based snake game created in C++ as part of a second-semester project. This project marked a significant milestone as it was not only my first programming project but also one where I took the lead. The game features two levels: Easy and Hard, providing players with varying levels of challenge and excitement.
 
+https://github.com/user-attachments/assets/db955e5f-3e6f-4669-bfe5-3a84f1900be1
+
+
+
 ## Features
 
 - Intuitive and interactive GUI.
