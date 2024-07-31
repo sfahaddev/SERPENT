@@ -46,7 +46,7 @@ Contributions are welcome! If you find any issues or have ideas to enhance the g
 
 ## Credits
 
-- Developed by: whatisfahad
-- Contact: fahadzamansid@gmail.com
+- Developed by: sfahaddev
+- Contact: fahads.dev@gmail.com
 
 Thank you for checking out SERPENT! Have fun playing the game and challenging your friends to beat your high scores! 🎮🐍
